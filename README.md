@@ -129,3 +129,17 @@ Developed a full-stack Task Management System using **React, Node.js, Express, a
 
 Author
 Ravi Singh
+
+## Screenshots
+
+### Login Page
+![Login](Screenshots/Login page.png)
+
+### Register Page
+![Register](Screenshots/RegisterPage.png)
+
+### User Authentication
+![Authentication](Screenshots/UserAuthentication.png)
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
