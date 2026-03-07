@@ -133,7 +133,7 @@ Ravi Singh
 ## Screenshots
 
 ### Login Page
-![Login](Screenshots/Login page.png)
+![Login](Screenshots/loginpage.png)
 
 ### Register Page
 ![Register](Screenshots/RegisterPage.png)
