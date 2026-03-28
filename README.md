@@ -65,16 +65,16 @@ cd Task-Management-System
 
 ```
 cd backend
-npm install
-npm start
+npm.cmd install
+npm.cmd start
 ```
 
 ### 3. Run Frontend
 
 ```
 cd frontend
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 
 Frontend runs on
